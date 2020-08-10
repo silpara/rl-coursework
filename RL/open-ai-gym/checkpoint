@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/abhay.shukla/rl/RL/open-ai-gym/cartpole_model_v0.model"
+all_model_checkpoint_paths: "/Users/abhay.shukla/rl/RL/open-ai-gym/cartpole_model_v0.model"
